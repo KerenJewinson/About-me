@@ -29,4 +29,4 @@ I have basic knowledge of:
 ## 📫 Let's Connect
 Feel free to reach out!
 - Email: keren.j17@gmail.com  
-- GitHub: https://github.com/keren-j
+- GitHub: https://github.com/KerenJewinson
